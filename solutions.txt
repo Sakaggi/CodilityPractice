@@ -4,3 +4,6 @@ BinaryGap: https://app.codility.com/demo/results/training3TU6CJ-TXS/
 Lesson 2:
 Cyclic Rotation: https://app.codility.com/demo/results/trainingAVV4DB-ZCG/
 Odd Occurances in Array: https://app.codility.com/demo/results/trainingHUHYQN-6UW/ 
+
+Random Challenges: 
+FirstUnique: https://app.codility.com/demo/results/trainingN2MRWC-M9B/
